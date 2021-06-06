@@ -23,7 +23,7 @@ a {
 }
 
 html {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Nunito', sans-serif;
   font-size: 17px;
   &.text-size-smaller {
     font-size: 16px;
@@ -49,7 +49,7 @@ tbody {
   border: 1px solid $love#{50};
   a {
     color: $quaternary;
-    font-family: 'Source Code Pro';
+    font-family: 'Nunito';
     font-size: 13px;
     &:hover {
       color: $quaternary#{90};
@@ -189,7 +189,7 @@ td .link-bottom-line .badge-category {
 // Navigation Pills
 .nav-pills:not(#global-sidebar-nav) > li > a {
   color: $primary;
-  font-family: "Source Sans Pro" sans-serif;
+  font-family: "Nunito" sans-serif;
   border-radius: 4px;
   &.active {
     background-color: $tertiary;
