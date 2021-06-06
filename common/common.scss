@@ -1,5 +1,14 @@
 @import "fonts";
 
+button#create-topic {
+    background-color: #363636 !important;
+    color: #ffffff !important;
+}
+
+button#create-topic .d-icon {
+    color: #b6b6b6 !important;
+}
+
 @keyframes background-fade-highlight {
   0% {
     background-color: $love#{30}; //new color!
