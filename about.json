@@ -18,15 +18,15 @@
     "color_schemes": {
       "MCCS Discourse – Dark": {
         "primary": "f2f2f2",
-        "secondary": "282a36",
-        "tertiary": "bd93f9",
+        "secondary": "27428b",
+        "tertiary": "e64e67",
         "quaternary": "8be9fd",
         "header_background": "ffffff",
         "header_primary": "14151f",
         "highlight": "f1fa8c",
         "danger": "ff5555",
-        "success": "50fa7b",
-        "love": "ff79c6"
+        "success": "3452ff",
+        "love": "e64e67"
       }
   }
 }
