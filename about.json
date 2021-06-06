@@ -1,5 +1,5 @@
 {
-    "name": "Dracula Theme",
+    "name": "MCCS Discourse – Dark",
     "about_url": "",
     "liscense_url": "",
     "assets": {
@@ -16,7 +16,7 @@
       "scp-regular":"assets/SourceCodePro-Regular.ttf"
     },
     "color_schemes": {
-      "Dracula": {
+      "MCCS Discourse – Dark": {
         "primary": "f2f2f2",
         "secondary": "282a36",
         "tertiary": "bd93f9",
